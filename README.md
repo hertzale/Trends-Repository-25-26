@@ -1,1 +1,1 @@
-# Trends-Repository-25-26
+# Repository for Recitation 2 in CSDC105
